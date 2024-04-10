@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "keyboard.h": "c",
+        "step_motor.h": "c",
+        "gpio.h": "c",
+        "at24c02.h": "c"
+    }
+}
